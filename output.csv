@@ -1,0 +1,111 @@
+message_id,action,message_type,reason,confidence,evidence_message_ids
+msg_023,notify,business_update,A verified business sent a time-sensitive update tied to user history.,0.89,message_0243;message_0102
+msg_091,mute,scam,"The message asks for sensitive verification, payment, or account action through a suspicious flow.",0.95,message_0238;message_0381
+msg_090,digest,unknown,"The sender is unfamiliar, but the message does not show urgency, payment pressure, or safety risk.",0.7,message_0340;message_0339
+msg_048,mute,scam,"The message asks for sensitive verification, payment, or account action through a suspicious flow.",0.95,message_0151;message_0152
+msg_040,mute,greeting,The sender has a pattern of repeated forwards or greetings that are low value for this user.,0.88,message_0136;message_0135
+msg_075,digest,business_update,The verified business update appears legitimate but not urgent.,0.78,message_0206;message_0205
+msg_005,notify,event,The message is time-sensitive or asks the user to act soon.,0.84,message_0401;message_0065
+msg_104,notify,event,The message is time-sensitive or asks the user to act soon.,0.84,message_0383;message_0232
+msg_069,mute,greeting,The sender has a pattern of repeated forwards or greetings that are low value for this user.,0.88,message_0042;message_0080
+msg_107,mute,scam,"The message asks for sensitive verification, payment, or account action through a suspicious flow.",0.95,message_0235;message_0056
+msg_070,digest,personal,The message appears safe and can be read later.,0.68,message_0369;message_0213
+msg_003,notify,urgent,The message is time-sensitive or asks the user to act soon.,0.84,message_0400;message_0031
+msg_099,notify,event,The message is time-sensitive or asks the user to act soon.,0.84,message_0227;message_0249
+msg_008,notify,event,A verified business sent a time-sensitive update tied to user history.,0.89,message_0296;message_0072
+msg_092,digest,business_update,The verified business update appears legitimate but not urgent.,0.78,message_0346;message_0345
+msg_060,digest,promotion,The offer is low priority and can be handled later.,0.75,message_0284;message_0176
+msg_004,notify,event,A verified business sent a time-sensitive update tied to user history.,0.89,message_0245;message_0005
+msg_030,mute,promotion,The offer is low priority and can be handled later.,0.75,message_0115;message_0335
+msg_045,notify,event,The message is time-sensitive or asks the user to act soon.,0.84,message_0146;message_0145
+msg_052,mute,scam,"The message asks for sensitive verification, payment, or account action through a suspicious flow.",0.95,message_0208;message_0207
+msg_009,digest,personal,The message appears safe and can be read later.,0.68,message_0074;message_0073
+msg_071,digest,personal,The message appears safe and can be read later.,0.68,message_0197;message_0198
+msg_016,mute,scam,"The message asks for sensitive verification, payment, or account action through a suspicious flow.",0.95,message_0024;message_0201
+msg_065,mute,scam,"The message asks for sensitive verification, payment, or account action through a suspicious flow.",0.95,message_0261;message_0185
+msg_038,mute,forward,The sender has a pattern of repeated forwards or greetings that are low value for this user.,0.88,message_0131;message_0132
+msg_086,digest,business_update,The verified business update appears legitimate but not urgent.,0.78,message_0222
+msg_014,mute,promotion,The user has opted out of or repeatedly dismissed similar marketing messages.,0.88,message_0258;message_0018
+msg_094,mute,promotion,The promotional message is low priority and does not need an immediate alert.,0.78,message_0357;message_0212
+msg_029,mute,promotion,The offer is low priority and can be handled later.,0.75,message_0401;message_0113
+msg_105,mute,forward,The sender has a pattern of repeated forwards or greetings that are low value for this user.,0.88,message_0373;message_0233
+msg_002,notify,event,The message is time-sensitive or asks the user to act soon.,0.84,message_0266;message_0003
+msg_010,digest,business_update,The verified business update appears legitimate but not urgent.,0.78,message_0242;message_0011
+msg_078,digest,urgent,The message appears safe and can be read later.,0.68,message_0211;message_0212
+msg_013,digest,promotion,The offer is low priority and can be handled later.,0.75,message_0081;message_0082
+msg_018,notify,urgent,The message is time-sensitive or asks the user to act soon.,0.84,message_0091;message_0092
+msg_044,mute,scam,"The message asks for sensitive verification, payment, or account action through a suspicious flow.",0.95,message_0143;message_0144
+msg_032,digest,event,The message appears safe and can be read later.,0.68,message_0119;message_0285
+msg_106,notify,event,The message is time-sensitive or asks the user to act soon.,0.84,message_0376;message_0234
+msg_006,notify,payment,The message is time-sensitive or asks the user to act soon.,0.84,message_0044;message_0029
+msg_109,mute,scam,"The message asks for sensitive verification, payment, or account action through a suspicious flow.",0.95,message_0151;message_0237
+msg_108,mute,scam,"The message asks for sensitive verification, payment, or account action through a suspicious flow.",0.95,message_0094;message_0093
+msg_019,digest,business_update,The business update appears safe but not urgent.,0.73,message_0094;message_0236
+msg_088,digest,personal,The message appears safe and can be read later.,0.68,message_0224
+msg_056,notify,event,The message is time-sensitive or asks the user to act soon.,0.84,message_0226;message_0359
+msg_027,digest,promotion,The promotional message is low priority and does not need an immediate alert.,0.78,message_0272;message_0033
+msg_050,notify,event,The message is time-sensitive or asks the user to act soon.,0.84,message_0279;message_0155
+msg_083,digest,personal,The message appears safe and can be read later.,0.68,none
+msg_063,notify,payment,The message is time-sensitive or asks the user to act soon.,0.84,message_0181;message_0182
+msg_033,digest,urgent,The message appears safe and can be read later.,0.68,message_0121;message_0122
+msg_061,mute,greeting,The sender has a pattern of repeated forwards or greetings that are low value for this user.,0.88,message_0080;message_0042
+msg_020,notify,urgent,The message is time-sensitive or asks the user to act soon.,0.84,message_0096;message_0095
+msg_017,notify,urgent,The message is time-sensitive or asks the user to act soon.,0.84,message_0090;message_0089
+msg_058,mute,forward,The sender has a pattern of repeated forwards or greetings that are low value for this user.,0.88,message_0039;message_0241
+msg_026,mute,scam,"The message asks for sensitive verification, payment, or account action through a suspicious flow.",0.95,message_0032;message_0107
+msg_047,notify,event,The message is time-sensitive or asks the user to act soon.,0.84,message_0043;message_0410
+msg_046,mute,scam,"The message asks for sensitive verification, payment, or account action through a suspicious flow.",0.95,message_0147;message_0148
+msg_042,notify,event,The message is time-sensitive or asks the user to act soon.,0.84,message_0140;message_0058
+msg_079,digest,personal,The message appears safe and can be read later.,0.68,message_0369;message_0053
+msg_098,notify,event,The message is time-sensitive or asks the user to act soon.,0.84,message_0226;message_0359
+msg_037,digest,personal,The message appears safe and can be read later.,0.68,message_0215;message_0189
+msg_007,digest,personal,The message appears safe and can be read later.,0.68,message_0069;message_0070
+msg_085,digest,business_update,The business update appears safe but not urgent.,0.73,none
+msg_001,notify,urgent,The message is time-sensitive or asks the user to act soon.,0.84,message_0140;message_0058
+msg_021,notify,payment,The message is time-sensitive or asks the user to act soon.,0.84,message_0098;message_0068
+msg_028,mute,promotion,The user has opted out of or repeatedly dismissed similar marketing messages.,0.88,message_0034;message_0112
+msg_012,mute,forward,The sender has a pattern of repeated forwards or greetings that are low value for this user.,0.88,message_0079;message_0247
+msg_064,notify,payment,The message is time-sensitive or asks the user to act soon.,0.84,message_0201;message_0183
+msg_103,notify,event,The message is time-sensitive or asks the user to act soon.,0.84,message_0065;message_0382
+msg_031,notify,event,The message is time-sensitive or asks the user to act soon.,0.84,message_0117;message_0118
+msg_057,notify,urgent,The message is time-sensitive or asks the user to act soon.,0.84,message_0003;message_0266
+msg_087,digest,personal,The message appears safe and can be read later.,0.68,none
+msg_067,notify,payment,The message is time-sensitive or asks the user to act soon.,0.84,message_0098;message_0068
+msg_039,notify,payment,The message is time-sensitive or asks the user to act soon.,0.84,message_0364;message_0051
+msg_082,digest,personal,The message appears safe and can be read later.,0.68,message_0397;message_0218
+msg_066,mute,scam,"The message asks for sensitive verification, payment, or account action through a suspicious flow.",0.95,message_0188;message_0187
+msg_049,notify,event,A verified business sent a time-sensitive update tied to user history.,0.89,message_0154;message_0291
+msg_015,mute,scam,"The message asks for sensitive verification, payment, or account action through a suspicious flow.",0.95,message_0199;message_0085
+msg_051,mute,scam,"The message asks for sensitive verification, payment, or account action through a suspicious flow.",0.95,message_0257;message_0103
+msg_097,digest,urgent,The message appears safe and can be read later.,0.68,message_0359;message_0225
+msg_089,notify,urgent,The message is time-sensitive or asks the user to act soon.,0.84,message_0300
+msg_053,digest,personal,The message appears safe and can be read later.,0.68,message_0411;message_0253
+msg_059,mute,scam,"The message asks for sensitive verification, payment, or account action through a suspicious flow.",0.95,message_0174;message_0173
+msg_024,mute,scam,"The message asks for sensitive verification, payment, or account action through a suspicious flow.",0.95,message_0257;message_0103
+msg_072,mute,scam,"The message asks for sensitive verification, payment, or account action through a suspicious flow.",0.95,message_0199;message_0085
+msg_036,digest,business_update,The business update appears safe but not urgent.,0.73,message_0283;message_0127
+msg_076,mute,scam,"The message asks for sensitive verification, payment, or account action through a suspicious flow.",0.95,message_0208;message_0207
+msg_055,digest,urgent,The message appears safe and can be read later.,0.68,message_0387;message_0166
+msg_102,notify,urgent,The message is time-sensitive or asks the user to act soon.,0.84,message_0371;message_0230
+msg_080,notify,event,The message is time-sensitive or asks the user to act soon.,0.84,message_0043;message_0216
+msg_093,mute,scam,"The message asks for sensitive verification, payment, or account action through a suspicious flow.",0.95,message_0398;message_0349
+msg_034,mute,greeting,The sender has a pattern of repeated forwards or greetings that are low value for this user.,0.88,message_0014;message_0013
+msg_035,notify,business_update,A verified business sent a time-sensitive update tied to user history.,0.89,message_0281;message_0125
+msg_101,digest,personal,The message appears safe and can be read later.,0.68,message_0268;message_0370
+msg_041,notify,urgent,The message is time-sensitive or asks the user to act soon.,0.84,message_0137;message_0138
+msg_011,mute,greeting,The sender has a pattern of repeated forwards or greetings that are low value for this user.,0.88,message_0014;message_0013
+msg_110,mute,scam,"The message asks for sensitive verification, payment, or account action through a suspicious flow.",0.95,message_0238;message_0381
+msg_095,mute,scam,"The message asks for sensitive verification, payment, or account action through a suspicious flow.",0.95,message_0024;message_0201
+msg_074,mute,scam,"The message asks for sensitive verification, payment, or account action through a suspicious flow.",0.95,message_0203;message_0204
+msg_073,notify,urgent,The message is time-sensitive or asks the user to act soon.,0.84,message_0024;message_0202
+msg_054,mute,scam,"The message asks for sensitive verification, payment, or account action through a suspicious flow.",0.95,message_0163;message_0203
+msg_068,digest,personal,The message appears safe and can be read later.,0.68,message_0191;message_0192
+msg_100,notify,payment,The message is time-sensitive or asks the user to act soon.,0.84,message_0362;message_0228
+msg_062,notify,event,The message is time-sensitive or asks the user to act soon.,0.84,message_0410;message_0043
+msg_096,digest,personal,The message appears safe and can be read later.,0.68,message_0405;message_0355
+msg_043,notify,event,The message is time-sensitive or asks the user to act soon.,0.84,message_0216;message_0190
+msg_077,notify,payment,The message is time-sensitive or asks the user to act soon.,0.84,message_0403;message_0051
+msg_081,digest,personal,The message appears safe and can be read later.,0.68,message_0217
+msg_025,notify,urgent,The message is time-sensitive or asks the user to act soon.,0.84,message_0239;message_0004
+msg_084,digest,business_update,The verified business update appears legitimate but not urgent.,0.78,none
+msg_022,notify,payment,The message is time-sensitive or asks the user to act soon.,0.84,message_0099;message_0100
